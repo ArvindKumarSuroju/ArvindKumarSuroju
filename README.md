@@ -33,8 +33,8 @@
 <img align="left" alt="GitHub" width="26px" src="./img/GitHub.jpg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="26px" src="./img/Jenkins.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="./img/Jira.jpg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" style="padding-right:10px;" />
-<img align="left" alt="Oracle" width="26px" src="./img/Oracle.svg.png" style="padding-right:10px;" />
+<!-- <img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" style="padding-right:10px;" />
+<img align="left" alt="Oracle" width="26px" src="./img/Oracle.svg.png" style="padding-right:10px;" /> -->
 <!-- <img align="left" alt="Spring" width="26px" src="./img/Spring.png" style="padding-right:10px;" /> -->
-<img align="left" alt="SpringBoot" width="26px" src="./img/spring-boot-logo.png" style="padding-right:10px;" />
+<!-- <img align="left" alt="SpringBoot" width="26px" src="./img/spring-boot-logo.png" style="padding-right:10px;" /> -->
 <img align="left" alt="Wordpress" width="26px" src="./img/WordPress.svg.png" style="padding-right:10px;" />
