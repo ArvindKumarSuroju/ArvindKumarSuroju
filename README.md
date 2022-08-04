@@ -30,9 +30,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="BootStrap" width="26px" src="./img/Bootstrap_logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="./img/firebase.jpg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="./img/GitHub.jpg" style="padding-right:10px;" />
+<!-- <img align="left" alt="GitHub" width="26px" src="./img/GitHub.jpg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="26px" src="./img/Jenkins.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="./img/Jira.jpg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="./img/Jira.jpg" style="padding-right:10px;" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="./img/mongodb.png" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="26px" src="./img/Oracle.svg.png" style="padding-right:10px;" /> -->
 <!-- <img align="left" alt="Spring" width="26px" src="./img/Spring.png" style="padding-right:10px;" /> -->
