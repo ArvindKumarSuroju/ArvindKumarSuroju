@@ -1,6 +1,6 @@
 # Hola, I'm Arvind Kumar! 👋
 
-## I'm a Full Stack Developer, and a nature lover!!
+## I'm a DevOps Engineer, and a nature lover!!
 
 - 🔭 Check out my repositories
 - 🌱 I’m currently learning everything 🤣
